@@ -23,6 +23,8 @@ Various online & other resources for learning and improving skills in the <a hre
 ## Python Cheatsheets
 In the <a href="https://github.com/CABAH/learningPythonResources/tree/main/cheatsheets"><strong><em>cheatsheets</em></strong> folder</a>, you can download any of the Python cheatsheets as a PDF. These include:
 - Python cheatsheet for hackers and developers
+- Python For Data Science Cheat Sheet
+- Python Cheat Sheet
   
 [<img src="CabahFCP.jpg" alt="Centre of Excellence for Australian Biodiversity and Heritage" width="170" align="right" />](http://EpicAustralia.org.au)
 
