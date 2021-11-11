@@ -1,6 +1,6 @@
 # Resources for learning <a href="https://www.python.org">Python</a>
 
-<a href="https://www.python.org"><img align="right" src="Pythonlogo.png" alt="Python" width="250" style="margin-top: 20px"></a>
+<a href="https://www.python.org"><img align="right" src="Pythonlogo.png" alt="Python" width="350" style="margin-top: 20px"></a>
 
 Various online & other resources for learning and improving skills in the <a href="https://www.python.org">Python programming language</a>. This is a growing list.
 
