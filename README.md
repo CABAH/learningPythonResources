@@ -13,6 +13,7 @@ Various online & other resources for learning and improving skills in the <a hre
 - <a href="https://www.guru99.com/python-tutorials.html">Python Tutorial for Beginners</a>: Learn Python programming basics and advanced concepts
 - <a href="https://realpython.com/start-here/">Real Python</a>: Learn all things Python from the ground up; everything from the absolute basics, to web development and web scraping, to data visualization, and more
 - <a href="https://www.learnpython.orga">LearnPython.org</a>: Intended for everyone who wishes to learn the Python programming language
+- <a href="https://pythonspot.com">PythonSpot</a>: A complete Python programming tutorial suitable for both beginner and professional developers
 
 ## Online communities (Q & A)
 - <a href="https://www.twilio.com/blog/tag/python">Python posts</a> (blog): Many tutorials about Python and what you can create it with it
