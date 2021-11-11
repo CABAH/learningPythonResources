@@ -26,6 +26,7 @@ In the <a href="https://github.com/CABAH/learningPythonResources/tree/main/cheat
 - Python For Data Science Cheat Sheet
 - Python Cheat Sheet
 - Cheatography
+- Python Data Science Beginner & Intermediate
   
 [<img src="CabahFCP.jpg" alt="Centre of Excellence for Australian Biodiversity and Heritage" width="170" align="right" />](http://EpicAustralia.org.au)
 
